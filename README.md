@@ -1,7 +1,7 @@
-# fs_distributed_system_1
+# TerminalVault
 
 ## Overview
-TreeDrive is a simple client-server file sharing system that allows multiple users to upload, download, list, and delete files on a central server. The system is implemented in Python and supports concurrent client connections.
+TerminalVault is a simple client-server file sharing system that allows multiple users to upload, download, list, and delete files on a central server. The system is implemented in Python and supports concurrent client connections.
 
 ---
 
